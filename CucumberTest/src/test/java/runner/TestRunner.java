@@ -1,4 +1,3 @@
-//Dipak
 package runner;
 
 import org.junit.runner.RunWith;
